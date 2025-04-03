@@ -1,5 +1,5 @@
 // Print to console
-console.log("Hello, World!");
+console.log("This is version 2");
 
 // Function to add two numbers
 function addNumbers(a, b) {
